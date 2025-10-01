@@ -28,4 +28,16 @@ for yr in range(2007, 2019):
         edges[f"group{i}"] = members
     hypergraphTotalEdges[yr] = edges
 
+#Create hypergraph
+for yr in range(2007, 2019):
+    H = hnx.Hypergraph(hypergraphTotalEdges[yr])
+    
+    #create a fixed layout
+    B = H.bipartite()
+    pos = nx.spring_layout(B, iterations=500, seed=12)
 
+    hnx.draw(H, pos = pos, with_node_labels=True, with_edge_labels=False)
+    plt.title(str(yr))
+    
+    plt.savefig(f"AffiliationMatrix{yr}.png", dpi=600, bbox_inches= 'tight')
+    plt.close()
