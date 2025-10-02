@@ -1,0 +1,16 @@
+Hypergraph information 
+nrows = number of nodes in the hypergraph.
+ncols = number of hyperedges in hypergraph 
+
+2007 data : {'nrows': 195, 'ncols': 465, 'aspect ratio': 0.41935483870967744, 'ncells': 1765, 'density': 0.01946512269092914}. 
+2008 data : {'nrows': 168, 'ncols': 370, 'aspect ratio': 0.4540540540540541, 'ncells': 1375, 'density': 0.02212033462033462}. 
+2009 data : {'nrows': 219, 'ncols': 602, 'aspect ratio': 0.3637873754152824, 'ncells': 2870, 'density': 0.021769140915365828}. 
+2010 data : {'nrows': 216, 'ncols': 538, 'aspect ratio': 0.40148698884758366, 'ncells': 2074, 'density': 0.017847308274817567}. 
+2011 data : {'nrows': 179, 'ncols': 413, 'aspect ratio': 0.43341404358353514, 'ncells': 1476, 'density': 0.01996564178175768}. 
+2012 data : {'nrows': 201, 'ncols': 493, 'aspect ratio': 0.4077079107505071, 'ncells': 2108, 'density': 0.021272945616743866}. 
+2013 data : {'nrows': 162, 'ncols': 303, 'aspect ratio': 0.5346534653465347, 'ncells': 1053, 'density': 0.02145214521452145}. 
+2014 data : {'nrows': 146, 'ncols': 284, 'aspect ratio': 0.5140845070422535, 'ncells': 868, 'density': 0.020933822110746673}. 
+2015 data : {'nrows': 135, 'ncols': 348, 'aspect ratio': 0.3879310344827586, 'ncells': 810, 'density': 0.017241379310344827}. 
+2016 data : {'nrows': 129, 'ncols': 270, 'aspect ratio': 0.4777777777777778, 'ncells': 560, 'density': 0.016078093597473444}. 
+2017 data : {'nrows': 109, 'ncols': 386, 'aspect ratio': 0.2823834196891192, 'ncells': 710, 'density': 0.01687502970955935}. 
+2018 data : {'nrows': 99, 'ncols': 248, 'aspect ratio': 0.39919354838709675, 'ncells': 478, 'density': 0.019468882372108177}. 
